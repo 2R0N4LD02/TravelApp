@@ -1,0 +1,38 @@
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.deps.json
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\DetailView.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\GalleryItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\RecommendedItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\TopItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfo.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\refint\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\src\Xamarin.Forms\TravelApp\TravelApp\obj\Debug\netstandard2.0\ref\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.deps.json
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\DetailView.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\GalleryItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\RecommendedItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\Views\Templates\TopItemTemplate.xaml.g.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfo.cs
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\refint\TravelApp.dll
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\Alumno\Documents\netmaui-travel-app-challenge-main\TRF DAM\TravelApp\TravelApp\TravelApp\obj\Debug\netstandard2.0\ref\TravelApp.dll
